@@ -7,7 +7,7 @@
 Calcium imaging data can be analyzed using different strategies depending on the scientific question and assumptions about the data. This project combines two complementary pipelines:
 
 ## NMF-based pipeline
-- Data-driven approach using Non-negative Matrix Factorization (NMF)
+- Data-driven approach using non-negative matrix factorization (NMF)
 - Extracts spatial and temporal components directly from imaging data
 - Implemented as a sequence of modular Jupyter notebooks
 
