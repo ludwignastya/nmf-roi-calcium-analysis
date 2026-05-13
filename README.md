@@ -1,5 +1,4 @@
-<img src="images/pipeline_overview.jp" alt="Protocol" style="width: 200px;"/>
-
+<img src="images/pipeline_overview.jpg" alt="Widefield calcium imaging" style="width: 200px;"/>
 # NMF-ROI Calcium Analysis
 
 ## Overview
