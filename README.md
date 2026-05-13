@@ -24,3 +24,7 @@ See: nmf_pipeline/README.md
 
 Run ROI-based analysis
 See: roi_pipeline/README.md
+
+### Note
+The dataset used in this study is unpublished and therefore not publicly available.
+Access can be granted upon request
