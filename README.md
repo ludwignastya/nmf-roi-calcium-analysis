@@ -1,21 +1,21 @@
-images/pipeline_overview.jpg
+<img src="images/pipeline_overview.jp" alt="Protocol" style="width: 200px;"/>
 
-NMF-ROI Calcium Analysis
+# NMF-ROI Calcium Analysis
 
-Overview
+## Overview
 
 Calcium imaging data can be analyzed using different strategies depending on the scientific question and assumptions about the data. This project combines two complementary pipelines:
 
-NMF-based pipeline
+## NMF-based pipeline
 - Data-driven approach using Non-negative Matrix Factorization (NMF)
 - Extracts spatial and temporal components directly from imaging data
 - Implemented as a sequence of modular Jupyter notebooks
 
-ROI-based pipeline
+## ROI-based pipeline
 - Hypothesis-driven approach using predefined regions of interest (ROIs)
 - Implemented using a structured, class-based design
 
-Getting Started
+## Getting Started
 
 Choose one of the two pipelines depending on your preferred analysis method:
 
