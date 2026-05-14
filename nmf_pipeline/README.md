@@ -1,10 +1,10 @@
-NMF-Based Calcium Imaging Analysis Pipeline
+# NMF-Based Calcium Imaging Analysis Pipeline
 
 This repository contains a modular workflow for analyzing calcium imaging data using Non-negative Matrix Factorization (NMF), followed by component refinement, signal extraction, peak detection, and population-level analysis.
 
-Repository Structure
+## Repository Structure
 
-Core utilities:
+### Core utilities:
 nmf_utils.py
 - ΔF/F (dF/F) computation and preprocessing
 - NMF component handling and spatial map reconstruction
@@ -16,7 +16,7 @@ nmf_utils.py
 - Histogram and statistical aggregation utilities
 - Visualization tools (traces, masks, raster plots, heatmaps, histograms, contours)
 
-Analysis Pipeline (notebooks)
+### Analysis Pipeline (notebooks)
 1. NMF decomposition
 2. Component splitting and merging
 3. Manual correction
@@ -29,10 +29,10 @@ Analysis Pipeline (notebooks)
 10. Peak shape clustering
 11. Time-to-peak histograms
 
-Data Flow
+### Data Flow
 Raw movie + mask → dF/F → NMF → refinement → traces → peaks → analysis
 
-Outputs
+### Outputs
 - Spatial maps
 - Traces
 - Peaks
@@ -41,7 +41,7 @@ Outputs
 - Heatmaps
 - Statistics (.xlsx)
 
-Requirements
+### Requirements
 Python 3.11
 numpy 2.4.2
 pandas 3.0.1
