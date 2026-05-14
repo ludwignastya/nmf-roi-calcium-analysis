@@ -26,5 +26,8 @@ Run ROI-based analysis
 See: roi_pipeline/README.md
 
 ### Note
-The dataset used in this study is unpublished and therefore not publicly available.
+A sample dataset for testing and reproducing the analysis pipelines is available on Zenodo:
+10.5281/zenodo.20179317
+After downloading the dataset, place the corresponding data folder inside the appropriate pipeline directory (alongside the analysis scripts) so that file paths match those used in the workflow.
+The full dataset used in this study is unpublished and therefore not publicly available.
 Access can be granted upon request
